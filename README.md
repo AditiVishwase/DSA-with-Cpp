@@ -2,7 +2,7 @@
 
 A collection of **Data Structures and Algorithms problems solved using C++**.
 
-## Topics
+## Topics 
 - C++ Basics
 - Patterns
 - Arrays
